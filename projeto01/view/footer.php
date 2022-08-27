@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
 <footer>
 			
 			<div class="row row-cinza-claro">
